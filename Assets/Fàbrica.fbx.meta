@@ -3,7 +3,37 @@ guid: e99cd669e4849774f8b69def7cb495ad
 ModelImporter:
   serializedVersion: 20200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: brick tower
+    second: {fileID: 2100000, guid: 339a2f94b7a825b4c8e43c6147b815c4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: brick wall
+    second: {fileID: 2100000, guid: ed10807a0804fe44f8746b87a7aaee81, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cosa verde de la torre
+    second: {fileID: 2100000, guid: 7f8a06dce41423c4f95bdc9a57315d28, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: metal things
+    second: {fileID: 2100000, guid: 228eba22eac86734087ea17490f884e2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: puerta_
+    second: {fileID: 2100000, guid: 14f5fd13a880b8e4aa7b5eb9ab72744c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: teulada
+    second: {fileID: 2100000, guid: 663fc11ac5063104d9756c6b86bb2ea5, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
